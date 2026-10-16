@@ -2,39 +2,38 @@
   "version": "1.0.0",
   "model_revision": "2026-10-15",
   "kind": "static_model",
-  "model_sha256": "efb50f8a98fdb6dd00766fb9b3415c9e185d9ec22bcd74b2cc627e898011a892",
+  "model_sha256": "fcaa402880a2a2931aae53f764e723535ef1e2c611982ed50b727a89ef527a98",
   "meshes": 5,
   "animation_clips": 0,
   "skins": 0,
-  "upstream": "https://github.com/bigdiu/naiwa-nailoong-blender-model",
   "files": {
     "naiwa-refined.blend": {
-      "bytes": 5271776,
-      "sha256": "bea1948cfb7538eeb89ccdfe2f9ea21877ead7e6f2e4a102952f33a83c7fd6bc"
+      "bytes": 5271080,
+      "sha256": "81e75087c1950c89d120429653acc33a95d4a8fd57cc5fabc118468789e6e99e"
     },
     "naiwa-refined.glb": {
-      "bytes": 4804308,
-      "sha256": "efb50f8a98fdb6dd00766fb9b3415c9e185d9ec22bcd74b2cc627e898011a892"
+      "bytes": 4802508,
+      "sha256": "fcaa402880a2a2931aae53f764e723535ef1e2c611982ed50b727a89ef527a98"
     },
     "index.html": {
-      "bytes": 7574555,
-      "sha256": "598049392e1d1201b9631a494b18598d11728beb1cf8144d52644c54d889a037"
+      "bytes": 7572155,
+      "sha256": "5151d18cee89010d4a21982b3877732d08732bd39389c15fb207cab9d835b8b7"
     },
     "front.png": {
-      "bytes": 836812,
-      "sha256": "8f710c9a6f36b4247a2b884154ecca04024eddf177a2afb7e2bbf893dad35aec"
+      "bytes": 836725,
+      "sha256": "7e2c5ba99e166775ae378f862811d7f7666ada803df41818cee5460aa5169c79"
     },
     "side.png": {
-      "bytes": 812420,
-      "sha256": "ec6a9d02ee033a52a35324ebf000e2a33a06b64a3a6b282f5daec81ec87cbf50"
+      "bytes": 812333,
+      "sha256": "005c3cded305bce4c9cc0ad1afaa1bf9b51c271a648f3b31022db5d147fd7a45"
     },
     "back.png": {
-      "bytes": 797219,
-      "sha256": "d3e646587a66f75139da08e49e5c58ee4d51eed408e29f448a956aca41cb9b1b"
+      "bytes": 797132,
+      "sha256": "e0769366886504f25f35afa6c9be391b7475bccb0737709e25a970cf1cf23c26"
     },
     "three-quarter.png": {
-      "bytes": 830914,
-      "sha256": "0a9c61720bbc24c0839c42bb1629863692f415aaefdd320505a05ab54b8aa595"
+      "bytes": 830827,
+      "sha256": "3f2b1b6ddf920b40706786c9d115425234910198cd51526c090a7906cbc9fdbf"
     },
     "viewer.js": {
       "bytes": 4212,
@@ -45,8 +44,8 @@
       "sha256": "42522111480c72a4bf31316c32d802bf7211a5a6016e4c40226ac95b5583e5c1"
     },
     "build_preview.py": {
-      "bytes": 4297,
-      "sha256": "ff1a78239e44d62dcb6dcb7fb3f18c2d97425f927cb85450b560e72c2c85aaba"
+      "bytes": 4201,
+      "sha256": "cfd99149212e05ea4ae9c2b15dd5c6f16af0b573262209ad3b28db8884aaa835"
     },
     "three.core.min.js": {
       "bytes": 381124,
@@ -65,20 +64,16 @@
       "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
     },
     "README.md": {
-      "bytes": 4059,
-      "sha256": "80614601a1de703da7baa13e652cc25e058d23b8a2005ec3f7ad891e1b788456"
+      "bytes": 3568,
+      "sha256": "7f91aba95f07578f45db266a2e15c02388d19fcc78be86d909cbde2b1178409d"
     },
     "LICENSE.md": {
-      "bytes": 1817,
-      "sha256": "325b9b9d5f0c84f03a2a8c0db8533a575f21b123862ba2f0cfeedcf17aa9f1b6"
+      "bytes": 1232,
+      "sha256": "ef369384bcfdc807de5d28ce02b3db842b86ab95b2e60eea83c9dca6cb9ff49b"
     },
     "LICENSE-CODE.txt": {
       "bytes": 1064,
       "sha256": "0757135fa48cfffccf8945708b558a33fd7261313d8cc1728fa8e5caf0f601cc"
-    },
-    "ATTRIBUTION.md": {
-      "bytes": 1611,
-      "sha256": "7d0378ab7dac1ede2620c2c69cbe4c3803e2672eedef8fa368ed27a01269b60a"
     },
     "THREE-LICENSE.txt": {
       "bytes": 1081,

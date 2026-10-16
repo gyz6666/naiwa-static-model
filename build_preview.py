@@ -58,12 +58,11 @@ def build():
 
     filenames = ['naiwa-refined.blend', 'naiwa-refined.glb', 'index.html', 'front.png', 'side.png', 'back.png', 'three-quarter.png',
                  'viewer.js', 'viewer.template.html', 'build_preview.py', 'three.core.min.js', 'three.module.min.js', 'GLTFLoader.js',
-                 'BufferGeometryUtils.js', 'README.md', 'LICENSE.md', 'LICENSE-CODE.txt', 'ATTRIBUTION.md', 'THREE-LICENSE.txt']
+                 'BufferGeometryUtils.js', 'README.md', 'LICENSE.md', 'LICENSE-CODE.txt', 'THREE-LICENSE.txt']
     manifest = {
         'version': '1.0.0', 'model_revision': '2026-10-15', 'kind': 'static_model',
         'model_sha256': model_hash, 'meshes': len(gltf.get('meshes', [])),
         'animation_clips': len(gltf.get('animations', [])), 'skins': len(gltf.get('skins', [])),
-        'upstream': 'https://github.com/bigdiu/naiwa-nailoong-blender-model',
         'files': {name: {'bytes': (ROOT / name).stat().st_size, 'sha256': hashlib.sha256((ROOT / name).read_bytes()).hexdigest()} for name in filenames},
     }
     (ROOT / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')

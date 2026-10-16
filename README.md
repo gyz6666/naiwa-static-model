@@ -4,7 +4,7 @@
 
 **[在线旋转预览 →](https://gyz6666.github.io/naiwa-static-model/)**
 
-基于 [WeDai / bigdiu 的模型](https://github.com/bigdiu/naiwa-nailoong-blender-model)二次修整。**仅供学习、练习和非商业使用**；原作者署名与来源见 [ATTRIBUTION.md](ATTRIBUTION.md)，具体使用范围见 [LICENSE.md](LICENSE.md)。
+**仅供学习、练习和非商业使用**；具体使用范围见 [LICENSE.md](LICENSE.md)。
 
 ![奶蛙模型](three-quarter.png)
 
@@ -25,7 +25,7 @@
 - 调亮黄色皮肤，调整奶白肚皮的轮廓与过渡。
 - 平滑细小表面起伏，重新协调背部和臀部曲面。
 
-这是独立制作的同人二改模型，并非角色官方模型或视频制作源模型。背面依据有限参考补建，比例和细节仍有可改进之处。
+这是非官方同人模型。比例和细节仍有可改进之处。
 
 **本仓库只包含静态版本：没有骨骼、动作片段、音轨或笑声。** 网页的自动旋转仅用于观察模型。文件中保留的少量形态键不是成套动画绑定。
 
@@ -61,14 +61,12 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 然后打开 `http://127.0.0.1:8000/`。这些步骤只涉及预览，不会重塑模型。修改模型请在 Blender 中编辑 `.blend`，导出替换 `.glb` 后再重新打包。
 
-## 来源与使用范围
+## 使用范围
 
-模型基础来自 WeDai / bigdiu，造型参考来自 Diyeego / naiwa-pet 中的角色画面。仓库未附带参考视频或音频，参考画面没有作为表面贴图。
-
-模型与渲染图遵循上游的学习、练习、非商业分享条件；角色形象权利归相应权利人所有。由于存在非商业限制，本项目是公开分享模型源文件，不是允许任意用途的标准开源模型许可证。
+模型与渲染图仅供学习、练习和非商业使用；角色形象权利归相应权利人所有。由于存在非商业限制，本项目是公开分享模型源文件，不是允许任意用途的标准开源模型许可证。
 
 独立的网页预览代码采用 [MIT 许可](LICENSE-CODE.txt)，Three.js 的许可另见 [THREE-LICENSE.txt](THREE-LICENSE.txt)。代码许可不改变模型及角色形象的使用范围。
 
 ---
 
-**English:** A refined, static fan-made Naiwa/Nailoong model with editable Blender source, a self-contained GLB and a rotatable HTML viewer. No rig, animation or audio is included. The model and renders retain the upstream **learning/practice and non-commercial** conditions. Character rights remain with their respective owners. The standalone viewer code is MIT-licensed; this does not relicense the model or character IP.
+**English:** A static fan-made Naiwa/Nailoong model with editable Blender source, a self-contained GLB and a rotatable HTML viewer. No rig, animation or audio is included. The model and renders are for **learning/practice and non-commercial use**. Character rights remain with their respective owners. The standalone viewer code is MIT-licensed; this does not relicense the model or character IP.
