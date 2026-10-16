@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "model_revision": "2026-10-15",
+  "kind": "static_model",
+  "model_sha256": "efb50f8a98fdb6dd00766fb9b3415c9e185d9ec22bcd74b2cc627e898011a892",
+  "meshes": 5,
+  "animation_clips": 0,
+  "skins": 0,
+  "upstream": "https://github.com/bigdiu/naiwa-nailoong-blender-model",
+  "files": {
+    "naiwa-refined.blend": {
+      "bytes": 5271776,
+      "sha256": "bea1948cfb7538eeb89ccdfe2f9ea21877ead7e6f2e4a102952f33a83c7fd6bc"
+    },
+    "naiwa-refined.glb": {
+      "bytes": 4804308,
+      "sha256": "efb50f8a98fdb6dd00766fb9b3415c9e185d9ec22bcd74b2cc627e898011a892"
+    },
+    "index.html": {
+      "bytes": 7574555,
+      "sha256": "598049392e1d1201b9631a494b18598d11728beb1cf8144d52644c54d889a037"
+    },
+    "front.png": {
+      "bytes": 836812,
+      "sha256": "8f710c9a6f36b4247a2b884154ecca04024eddf177a2afb7e2bbf893dad35aec"
+    },
+    "side.png": {
+      "bytes": 812420,
+      "sha256": "ec6a9d02ee033a52a35324ebf000e2a33a06b64a3a6b282f5daec81ec87cbf50"
+    },
+    "back.png": {
+      "bytes": 797219,
+      "sha256": "d3e646587a66f75139da08e49e5c58ee4d51eed408e29f448a956aca41cb9b1b"
+    },
+    "three-quarter.png": {
+      "bytes": 830914,
+      "sha256": "0a9c61720bbc24c0839c42bb1629863692f415aaefdd320505a05ab54b8aa595"
+    },
+    "viewer.js": {
+      "bytes": 4212,
+      "sha256": "843b6636151a76f6d2d8288d3ef19317174eb5aefef99f91343154058d2b9f40"
+    },
+    "viewer.template.html": {
+      "bytes": 3566,
+      "sha256": "42522111480c72a4bf31316c32d802bf7211a5a6016e4c40226ac95b5583e5c1"
+    },
+    "build_preview.py": {
+      "bytes": 4297,
+      "sha256": "ff1a78239e44d62dcb6dcb7fb3f18c2d97425f927cb85450b560e72c2c85aaba"
+    },
+    "three.core.min.js": {
+      "bytes": 381124,
+      "sha256": "61ba0df005b05991361d040d8ff670e1aadfd0ce7aeebd1fdb0725957a8957de"
+    },
+    "three.module.min.js": {
+      "bytes": 338908,
+      "sha256": "e2b5ee6bccd38fd6d8a2428546b83c5f2426d84b152ef82be8055556e3b40eb6"
+    },
+    "GLTFLoader.js": {
+      "bytes": 114732,
+      "sha256": "adbbafe8ce40416525b6be0ee5cac0d3782482bcf0122c8ca8ec1ffa77d3440b"
+    },
+    "BufferGeometryUtils.js": {
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    "README.md": {
+      "bytes": 3982,
+      "sha256": "07bcfaa06409ccabc8f68d2f284059df1508fdc23c96e3651c3f61b9d443ec31"
+    },
+    "LICENSE.md": {
+      "bytes": 1817,
+      "sha256": "325b9b9d5f0c84f03a2a8c0db8533a575f21b123862ba2f0cfeedcf17aa9f1b6"
+    },
+    "LICENSE-CODE.txt": {
+      "bytes": 1064,
+      "sha256": "0757135fa48cfffccf8945708b558a33fd7261313d8cc1728fa8e5caf0f601cc"
+    },
+    "ATTRIBUTION.md": {
+      "bytes": 1611,
+      "sha256": "7d0378ab7dac1ede2620c2c69cbe4c3803e2672eedef8fa368ed27a01269b60a"
+    },
+    "THREE-LICENSE.txt": {
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    }
+  }
+}
