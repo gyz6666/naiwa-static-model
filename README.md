@@ -2,6 +2,8 @@
 
 一个黄色、圆肚子的奶蛙静态模型，提供可编辑的 **Blender 源文件**、通用 **GLB 模型**和可旋转的网页预览。
 
+**[在线旋转预览 →](https://gyz6666.github.io/naiwa-static-model/)**
+
 基于 [WeDai / bigdiu 的模型](https://github.com/bigdiu/naiwa-nailoong-blender-model)二次修整。**仅供学习、练习和非商业使用**；原作者署名与来源见 [ATTRIBUTION.md](ATTRIBUTION.md)，具体使用范围见 [LICENSE.md](LICENSE.md)。
 
 ![奶蛙模型](three-quarter.png)
@@ -10,7 +12,7 @@
 
 - [Blender 源文件](naiwa-refined.blend)：继续编辑模型、材质和场景。
 - [GLB 模型](naiwa-refined.glb)：导入支持 glTF 2.0 的三维软件或网页项目。
-- [网页预览](index.html)：下载仓库后，用支持 WebGL 与 ES Modules 的现代浏览器打开 `index.html`。模型和运行依赖已内嵌，不需要联网下载第三方资源。
+- [离线网页](index.html)：下载仓库后，用支持 WebGL 与 ES Modules 的现代浏览器打开 `index.html`。模型和运行依赖已内嵌，不需要联网下载第三方资源。
 
 在 GitHub 上点击 **Code → Download ZIP** 可以下载完整仓库；单个模型文件可在文件页点击下载按钮。
 
